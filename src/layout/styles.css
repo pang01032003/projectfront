@@ -1,0 +1,8 @@
+.container {
+    border-radius: 8px;
+    background-color: #ffffff;
+    width: 1%;
+    /* ทำให้ความกว้างเต็มจอ */
+    margin-top: 88px;
+    position: relative;
+}
